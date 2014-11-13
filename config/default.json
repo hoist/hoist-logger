@@ -1,0 +1,11 @@
+{
+  "Hoist": {
+    "application": {
+      "name": "no application name set!"
+    },
+    "loggly": {
+      "domain": "hoist",
+      "token": "LOGGLYTOKEN"
+    }
+  }
+}

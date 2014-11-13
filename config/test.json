@@ -1,0 +1,12 @@
+{
+  "Hoist":{
+    "application":{
+      "name":"test app name"
+    },
+    "loggly":{
+      "token":"TEST_LOGGLY_TOKEN",
+      "domain":"TEST_LOGGLY_DOMAIN",
+      "tags":["1","2"]
+    }
+  }
+}
