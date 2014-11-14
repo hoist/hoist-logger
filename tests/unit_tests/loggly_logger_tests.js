@@ -31,7 +31,7 @@ describe('LogglyLogger', function () {
       token:'TEST_LOGGLY_TOKEN',
       subdomain:'TEST_LOGGLY_DOMAIN',
       json:true,
-      tags:['1','2']
+      tags:['1','2','hoist-connect']
     });
 
   });
