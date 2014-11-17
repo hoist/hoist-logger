@@ -31,6 +31,7 @@ describe('LogglyLogger', function () {
       token:'TEST_LOGGLY_TOKEN',
       subdomain:'TEST_LOGGLY_DOMAIN',
       json:true,
+      useTagHeader:false,
       tags:['1','2','hoist-connect']
     });
 
