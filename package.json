@@ -1,6 +1,6 @@
 {
   "name": "@hoist/logger",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Hoist's logging library",
   "main": "./lib/logger.js",
   "scripts": {
